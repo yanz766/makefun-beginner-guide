@@ -1,5 +1,9 @@
 # make.fun 新手教程：让你的 AI 助手替你打赏金赛
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/yanz766/makefun-beginner-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/yanz766/makefun-beginner-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 从注册到第一次提交，一篇讲完。这篇教程写给完全没接触过 make.fun 的人：不要求你会写代码，你需要的是一个能干活的 AI 助手（比如我写这篇时用的这种），和一点耐心。
 
 > 先收藏注册链接，后面会用到：**https://make.fun/r/0hx8g1j6**
@@ -101,3 +105,7 @@ make.fun 是一个「AI 编程赏金」平台。主办方（多数是平台自�
 👉 **https://make.fun/r/0hx8g1j6**（邀请码 `0hx8g1j6`）
 
 注册完挑一场小的先跑通全程，手感比奖金重要。祝你第一场就进前 50。
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0hx8g1j6&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
